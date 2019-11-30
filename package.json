@@ -1,0 +1,14 @@
+{
+  "name": "@oliviawyq/d3-tuitorials-for-the-beginner",
+  "main": "a659b09084634e66@2153.js",
+  "version": "2153.0.0",
+  "homepage": "https://observablehq.com/@oliviawyq/d3-tuitorials-for-the-beginner",
+  "author": {
+    "name": "oliviawyq",
+    "url": "https://observablehq.com/@oliviawyq"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
